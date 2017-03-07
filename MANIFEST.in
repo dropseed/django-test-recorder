@@ -1,0 +1,3 @@
+include LICENSE
+include README.md
+recursive-include test_recorder *.html *.png *.gif *js *.css *jpg *jpeg *svg *py

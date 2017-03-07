@@ -1,0 +1,4 @@
+cassettes/*.yaml
+cassettes/*.json
+meta/recording_name
+meta/cassettes_path
